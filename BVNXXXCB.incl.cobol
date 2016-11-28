@@ -20,4 +20,10 @@ v103      05 BVNXXXCB-TIPO-REG    PIC X (001).
 V103  *   ** TIPO DE REGISTRO **      
 v103  *   **  00 - Header     **
 v103  *   **  01 - Detalhe    **
+<<<<<<< HEAD
 v103  *   **  99 - Trailer    **
+=======
+v103  *   **  99 - Trailer    **
+v103      05  BVNXXXCB-NUMERO-SEQ  PIC 9(009).
+V103  *  **  NUMERO DA SEQUENCIA ***
+>>>>>>> refs/heads/feature/MN06527-Desenvolvimento
