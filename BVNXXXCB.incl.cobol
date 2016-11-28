@@ -18,3 +18,6 @@
       *------------*
 v103      05 BVNXXXCB-TIPO-REG    PIC X (001).
 V103  *   ** TIPO DE REGISTRO **      
+v103  *   **  00 - Header     **
+v103  *   **  01 - Detalhe    **
+v103  *   **  99 - Trailer    **
